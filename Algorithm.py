@@ -1,15 +1,5 @@
-from copy import deepcopy 
+from copy import deepcopy
 from Explanation import Explanation
-from Sigma import Letter, Sigma
-from NT import NT
-from Rule import Rule
-from Tree import Tree
-import random
-from math import log
-import sys
-import xml.etree.ElementTree as ET
-import time
-from Probes import *
 
 # PL is the plan library for this run
 # observations is a set of sigmas that needs to be explained
