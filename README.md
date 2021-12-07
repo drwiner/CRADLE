@@ -9,6 +9,6 @@ python2 CRADLE.py <DOMAIN> <OBSERVATIONS>
 e.g., 
 
 ```
-python2 CRADLE.py Domain.xml Observations.xml
+python2 CRADLE.py domains/Domain.xml observations/Observations.xml
 ```
 
